@@ -7,7 +7,7 @@ using System.Web.ModelBinding;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace MyFirstWebFrom
+namespace MyFirstWebForm
 {
     public partial class ProductDetails : System.Web.UI.Page
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MyFirstWebFrom {
+namespace MyFirstWebForm {
     
     
     public partial class ProductDetails {
